@@ -1,0 +1,1 @@
+This is a machine vision based model to predict American Sign Language (ASL) based on user-given ASL alphabet data. This utilizes MediaPipe hand landmarks and a Random Forest classifier to collect gesture data, train a machine learning model, and predict ASL signs in real time via webcam.
